@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Analysis of Results and Visualization
+##  Analysis of Results and Visualization
 
 The following figures illustrate the routing solution for the three problem scenarios defined in the project. Each graph visually represents how cargo is delivered across the network, showing the movement of vehicles between depots, clients, and stations (when applicable). Each vehicle is assigned a distinct color, and the nodes are shaped according to their role in the model.
 
